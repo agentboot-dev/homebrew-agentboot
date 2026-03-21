@@ -1,8 +1,8 @@
 class Agentboot < Formula
   desc "Convention over configuration for agentic development teams"
   homepage "https://agentboot.dev"
-  url "https://registry.npmjs.org/agentboot/-/agentboot-0.1.0.tgz"
-  sha256 "acce0dcff51607aaed03dd767032023621577caeb355a5ba78a68f1f640f15ba"
+  url "https://registry.npmjs.org/agentboot/-/agentboot-0.2.0.tgz"
+  sha256 "da76e917fc6f640180c02b72f98f4e64b7ce0c0e427412f94d9df7a11ed4e501"
   license "Apache-2.0"
 
   depends_on "node@22"
